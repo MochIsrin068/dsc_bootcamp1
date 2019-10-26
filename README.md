@@ -20,6 +20,7 @@ Cart Screen : <br/>
 list repository github from participant :
 - <a href="https://github.com/username/repo">github.com/username/repo</a>
 
-## SLIDE
-- slide <a href="http://bit.ly/dsc_bootcamptslide">here</a>
+## SLIDE & MODUL
+- slide <a href="https://bit.ly/dsc_bootcamptslide">here</a>
+- Modul <a href="https://bit.ly/dsc_bootcamp1">here</a>
 
