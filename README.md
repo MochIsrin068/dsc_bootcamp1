@@ -10,6 +10,12 @@ Detail Screen : <br/>
 Cart Screen : <br/>
 <img src="screen/cart.PNG"/>
 
+## Challenge for Participant
+- create your github account
+- create repository with name <b>fresh_cart</b>
+- Push Your project to yout github repository
+- if done, joining to WA group to report your repository <a href="https://chat.whatsapp.com/GJYd6Nnso3DChsH98pmsQV">here</a>
+
 ## Participant github repo
 list repository github from participant :
 - <a href="https://github.com/username/repo">github.com/username/repo</a>
